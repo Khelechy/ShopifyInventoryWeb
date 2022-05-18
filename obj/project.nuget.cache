@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "am6Oi2tWVvVowNMREoH2+qwT/dQfGhaV8uwKvbjPoRMn2VKpH+X6Lo3LRJ/xA3bH/1Mg+Q9NE8u9Z7zBJBDLgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\konyekwere\\source\\repos\\Mine\\ShopifyInventoryApi\\ShopifyInventoryWebClient\\ShopifyInventoryWebClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\konyekwere\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
